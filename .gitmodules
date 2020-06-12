@@ -1,0 +1,6 @@
+[submodule "layouts/shortcodes"]
+	path = layouts/shortcodes
+	url = https://github.com/capnfabs/grouse-fixture-minimo-shortcodes
+[submodule "layouts/taxonomy"]
+	path = layouts/taxonomy
+	url = https://github.com/capnfabs/grouse-fixture-minimo-taxonomy
